@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity 1 Ex1</string>
+    <string name="plus">+</string>
+    <string name="sum">Sum</string>
+    <string name="result">RESULT</string>
+    <string name="number_input">Enter a number</string>
+</resources>
