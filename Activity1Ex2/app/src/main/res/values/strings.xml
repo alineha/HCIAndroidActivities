@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Activity 1 Ex2</string>
+    <string name="txt_input">Enter a text</string>
+    <string name="send">Send</string>
 </resources>
